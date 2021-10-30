@@ -18,6 +18,8 @@ import com.example.tabs.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
+    //nez
+
     private ActivityMainBinding binding;
 
     @Override
